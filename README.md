@@ -1,4 +1,4 @@
-# 0x00. AirBnB clone - The console
+# 0x00. AirBnB clone - Web static
 
  ![HNBN](https://github.com/zye7ert/AirBnB_clone/blob/main/imagen/580b57fcd9996e24bc43c513%20(1).png)
 
